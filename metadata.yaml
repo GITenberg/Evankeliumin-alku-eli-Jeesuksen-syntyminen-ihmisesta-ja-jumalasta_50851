@@ -1,4 +1,8 @@
 _repo: Evankeliumin-alku-eli-Jeesuksen-syntyminen-ihmisesta-ja-jumalasta_50851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Järnefelt, Arvid
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4252
     wikipedia: http://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50851#Evankeliumin-alku-eli-Jeesuksen-syntyminen-ihmisesta-ja-jumalasta
 gutenberg_issued: '2016-01-05'
 gutenberg_type: Text
 identifiers:
